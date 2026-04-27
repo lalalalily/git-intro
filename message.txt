@@ -1,0 +1,5 @@
+HEAD
+This is a message from main branch
+
+Message from feature branch
+feature-greeting
