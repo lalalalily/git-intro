@@ -1,5 +1,12 @@
+ HEAD
 HEAD
 This is a message from main branch
 
 Message from feature branch
 feature-greeting
+
+ feature-improvement
+Change from feature branch
+Change from main
+ main
+ e60b6841ad4b11ba96b88cfb4e362b5195a24a58
